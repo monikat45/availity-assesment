@@ -1,0 +1,7 @@
+Questions:
+1.	Tell me about your proudest professional achievement.  It can also be a personal or school project.  
+Ans : I worked on Microservice based applications and got to introduce tenantized database. To make the connection to specific tenant, we got to introduce dummy database for initial connection and from there routed to specific tenant to execute the quiries. Though the system is complex,  we could able to achieve the business use case as expected and simple.
+2.	Tell me about something you have read recently that you would recommend and why. (Can be a Github Repo, Article, Blog, Book, etc) 
+Ans: I recently read an article about kafka. It is an event driven architecture to process enormous amount of events efficiently. The consumer is having full control on the way to communicate the messages and the concept is really interested to drive deeply.  If we need to process large amount of data, Kafka is the best solution evolving in the market now.
+3.	How would you explain to your grandmother what Availity does?
+Ans: Availity is one stop solution to deal with all health check ups, tracking and payments. Availity can take care of all types of coverage plans and have highly experienced staff. We just need to take care of patient rest will be supported by Availity.  
